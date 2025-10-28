@@ -1,0 +1,7 @@
+1001,John Smith,15,17,14,85
+1002,Jane Doe,12,14,13,72
+1003,Emily Johnson,18,19,20,95
+1006,David Wilson,8,9,10,50
+1008,Robert Anderson,19,18,20,98
+1010,James White,14,15,13,78
+1011,Mary Harris,9,8,10,45

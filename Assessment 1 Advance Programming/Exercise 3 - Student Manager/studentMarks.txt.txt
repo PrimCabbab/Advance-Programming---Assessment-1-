@@ -1,0 +1,6 @@
+5
+8439,Jake Hobbs,10,11,10,43
+8471,Fred Smith,15,14,13,75
+8520,Jo Huckleberry,12,16,14,68
+8592,Anna Brown,18,17,19,90
+8610,Tom White,8,9,10,35
